@@ -1,7 +1,6 @@
 
 
 
-**anamul23k/anamul23k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Anamul</h1>
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
